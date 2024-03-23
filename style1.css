@@ -181,7 +181,7 @@ header .navbar {
 
 .about-company:hover {
     transform: scale(1.02);
-    box-shadow: 0 10px 15px rgba(0, 0, 0, .4);
+    box-shadow: 8px 8px 5px 0px rgba(173, 188, 223, 0.75);
     transition: all .3s ease-in;
 }
 
@@ -253,7 +253,7 @@ header .navbar {
 }
 
 .services .service-box .image-area :hover {
-    box-shadow: 0 10px 15px rgba(0, 0, 0, .3);
+box-shadow: 8px 8px 5px 0px rgba(173, 188, 223, 0.75);
     transform: scale(1.02);
 }
 
